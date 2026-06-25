@@ -173,4 +173,4 @@ Execute the notebook from top to bottom to reproduce the analysis.
 
 ## Note
 
-This project was developed for academic purposes to apply supervised machine learning techniques to a real-world classification problem, including statistical analysis, feature selection, and performance evaluation.
+This project showcases an end-to-end machine learning workflow for a real-world classification problem, covering data preprocessing, statistical analysis, feature selection, model development, and performance evaluation.
