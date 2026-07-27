@@ -174,3 +174,12 @@ Execute the notebook from top to bottom to reproduce the analysis.
 ## Note
 
 This project showcases an end-to-end machine learning workflow for a real-world classification problem, covering data preprocessing, statistical analysis, feature selection, model development, and performance evaluation.
+
+---
+
+## Author
+
+**Matteo Maioli**
+
+- LinkedIn: [Profile](https://www.linkedin.com/in/matteo-maioli-3054a5419/)
+- GitHub: [Profile](https://github.com/MatteoMaioli)
